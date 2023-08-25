@@ -1,2 +1,2 @@
 + USE MVVM Clean Architecture
-+ API FORM FlixHq
++ API from FlixHq
